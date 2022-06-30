@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @King-click
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 📫 You can reach me with stuff. not code or hack stuff
+# Presto.py (aka King-click)
+Hello people! I am Presto.py, a person that is very interested in code.
 
-<!---
-King-click/King-click is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I am working on
+I am currently working on the Uxtron bot, a multi-purpose discord bot that aims to greatly improve every user's experince on discord. The bot is still in development but this is the invite link: https://bit.ly/3wJssgJ 
+
+## Uxtron bot collaborators
+Me, [decodedfinn](https://github.com/DecodedFinn), [hi-there-child](https://github.com/hi-there-child), and [creepermonst](https://github.com/Creepermonst).
