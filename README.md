@@ -1,8 +1,6 @@
 # Presto.py (aka King-click)
-Hello people! I am Presto.py, a person that is very interested in code.
+Hello people of the world! You might know me as Presto.py, Presto Pie, King Click, or many other things, but for those who don't know me, I am a human being. I know right! What a surprise!
+Jokes aside, I love programming, debating, writing, and of course, reading. They are the things that make my life interesting, and I'm not sure if I can live without them. 
 
-## What I am working on
-I am currently working on the Uxtron bot, a multi-purpose discord bot that aims to greatly improve every user's experince on discord. The bot is still in development but this is the invite link: https://bit.ly/3wJssgJ 
-
-## Uxtron bot collaborators
-Me, [decodedfinn](https://github.com/DecodedFinn), and [hi-there-child](https://github.com/hi-there-child).
+## Uxtron
+This was an abandoned discord bot project 😭. To be honest, it was almost finished. However, my team ran into some issues and just lost the momentum in general. May you rest in peace, Uxtron.
